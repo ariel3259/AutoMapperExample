@@ -1,0 +1,12 @@
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Contracts\obj\Debug\net6.0\ArticlesApi.Contracts.csproj.AssemblyReference.cache
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Contracts\obj\Debug\net6.0\ArticlesApi.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Contracts\obj\Debug\net6.0\ArticlesApi.Contracts.AssemblyInfoInputs.cache
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Contracts\obj\Debug\net6.0\ArticlesApi.Contracts.AssemblyInfo.cs
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Contracts\obj\Debug\net6.0\ArticlesApi.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Contracts\bin\Debug\net6.0\ArticlesApi.Contracts.deps.json
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Contracts\bin\Debug\net6.0\ArticlesApi.Contracts.dll
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Contracts\bin\Debug\net6.0\ArticlesApi.Contracts.pdb
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Contracts\obj\Debug\net6.0\ArticlesApi.Contracts.dll
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Contracts\obj\Debug\net6.0\refint\ArticlesApi.Contracts.dll
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Contracts\obj\Debug\net6.0\ArticlesApi.Contracts.pdb
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Contracts\obj\Debug\net6.0\ref\ArticlesApi.Contracts.dll

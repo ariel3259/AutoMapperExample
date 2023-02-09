@@ -1,0 +1,365 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi\\ArticlesApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Context\\ArticlesApi.Context.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Context\\ArticlesApi.Context.csproj",
+        "projectName": "ArticlesApi.Context",
+        "projectPath": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Context\\ArticlesApi.Context.csproj",
+        "packagesPath": "C:\\Users\\Ariel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Context\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Contracts\\ArticlesApi.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Contracts\\ArticlesApi.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Contracts\\ArticlesApi.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Contracts\\ArticlesApi.Contracts.csproj",
+        "projectName": "ArticlesApi.Contracts",
+        "projectPath": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Contracts\\ArticlesApi.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Ariel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Repositories\\ArticlesApi.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Repositories\\ArticlesApi.Repositories.csproj",
+        "projectName": "ArticlesApi.Repositories",
+        "projectPath": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Repositories\\ArticlesApi.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Ariel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Context\\ArticlesApi.Context.csproj": {
+                "projectPath": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Context\\ArticlesApi.Context.csproj"
+              },
+              "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Contracts\\ArticlesApi.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Contracts\\ArticlesApi.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Services\\ArticlesApi.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Services\\ArticlesApi.Services.csproj",
+        "projectName": "ArticlesApi.Services",
+        "projectPath": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Services\\ArticlesApi.Services.csproj",
+        "packagesPath": "C:\\Users\\Ariel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Contracts\\ArticlesApi.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Contracts\\ArticlesApi.Contracts.csproj"
+              },
+              "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Repositories\\ArticlesApi.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Repositories\\ArticlesApi.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi\\ArticlesApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi\\ArticlesApi.csproj",
+        "projectName": "ArticlesApi",
+        "projectPath": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi\\ArticlesApi.csproj",
+        "packagesPath": "C:\\Users\\Ariel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Context\\ArticlesApi.Context.csproj": {
+                "projectPath": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Context\\ArticlesApi.Context.csproj"
+              },
+              "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Contracts\\ArticlesApi.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Contracts\\ArticlesApi.Contracts.csproj"
+              },
+              "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Repositories\\ArticlesApi.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Repositories\\ArticlesApi.Repositories.csproj"
+              },
+              "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Services\\ArticlesApi.Services.csproj": {
+                "projectPath": "C:\\Users\\Ariel\\source\\repos\\ArticlesApi\\ArticlesApi.Services\\ArticlesApi.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

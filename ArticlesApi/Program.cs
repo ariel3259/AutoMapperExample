@@ -2,9 +2,7 @@ using ArticlesApi.Context;
 using ArticlesApi.Repositories;
 using ArticlesApi.Contracts.Model;
 using Microsoft.EntityFrameworkCore;
-using ArticlesApi.Contracts.Interfaces;
 using ArticlesApi.Contracts.Dto;
-using ArticlesApi.Contracts.Mappers;
 using ArticlesApi.Services;
 using ArticlesApi.Contracts.Profiles;
 
@@ -19,8 +17,6 @@ builder.Services.AddDbContext<ApiContext>((options) =>
 
 builder.Services.AddAutoMapper(typeof(ArticlesProfile));
 builder.Services.AddScoped<ICrud<Articles>, ArticlesRepository>();
-//builder.Services.AddTransient<IMapper<Articles, ArticlesRequest, ArticlesResponse, ArticlesUpdate>, ArticlesMap>();
-builder.Services.AddTransient<IMapUpdate<Articles, ArticlesUpdate>, ArticlesMapUpdate>();
 builder.Services.AddTransient<Service<Articles, ArticlesRequest, ArticlesResponse, ArticlesUpdate>>();
 builder.Services.AddControllers();
 

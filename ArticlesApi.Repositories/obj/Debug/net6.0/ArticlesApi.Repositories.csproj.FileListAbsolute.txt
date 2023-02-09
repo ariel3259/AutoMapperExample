@@ -1,0 +1,17 @@
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Repositories\obj\Debug\net6.0\ArticlesApi.Repositories.csproj.AssemblyReference.cache
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Repositories\obj\Debug\net6.0\ArticlesApi.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Repositories\obj\Debug\net6.0\ArticlesApi.Repositories.AssemblyInfoInputs.cache
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Repositories\obj\Debug\net6.0\ArticlesApi.Repositories.AssemblyInfo.cs
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Repositories\obj\Debug\net6.0\ArticlesApi.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Repositories\bin\Debug\net6.0\ArticlesApi.Repositories.deps.json
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Repositories\bin\Debug\net6.0\ArticlesApi.Repositories.dll
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Repositories\bin\Debug\net6.0\ArticlesApi.Repositories.pdb
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Repositories\bin\Debug\net6.0\ArticlesApi.Context.dll
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Repositories\bin\Debug\net6.0\ArticlesApi.Contracts.dll
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Repositories\bin\Debug\net6.0\ArticlesApi.Contracts.pdb
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Repositories\bin\Debug\net6.0\ArticlesApi.Context.pdb
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Repositories\obj\Debug\net6.0\ArticlesApi.Repositories.csproj.CopyComplete
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Repositories\obj\Debug\net6.0\ArticlesApi.Repositories.dll
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Repositories\obj\Debug\net6.0\refint\ArticlesApi.Repositories.dll
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Repositories\obj\Debug\net6.0\ArticlesApi.Repositories.pdb
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Repositories\obj\Debug\net6.0\ref\ArticlesApi.Repositories.dll

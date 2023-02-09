@@ -1,0 +1,17 @@
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Context\obj\Debug\net6.0\ArticlesApi.Context.csproj.AssemblyReference.cache
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Context\obj\Debug\net6.0\ArticlesApi.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Context\obj\Debug\net6.0\ArticlesApi.Context.AssemblyInfoInputs.cache
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Context\obj\Debug\net6.0\ArticlesApi.Context.AssemblyInfo.cs
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Context\obj\Debug\net6.0\ArticlesApi.Context.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Context\bin\Debug\net6.0\ArticlesApi.Context.deps.json
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Context\bin\Debug\net6.0\ArticlesApi.Context.runtimeconfig.json
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Context\bin\Debug\net6.0\ArticlesApi.Context.dll
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Context\bin\Debug\net6.0\ArticlesApi.Context.pdb
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Context\bin\Debug\net6.0\ArticlesApi.Contracts.dll
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Context\bin\Debug\net6.0\ArticlesApi.Contracts.pdb
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Context\obj\Debug\net6.0\ArticlesApi.Context.csproj.CopyComplete
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Context\obj\Debug\net6.0\ArticlesApi.Context.dll
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Context\obj\Debug\net6.0\refint\ArticlesApi.Context.dll
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Context\obj\Debug\net6.0\ArticlesApi.Context.pdb
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Context\obj\Debug\net6.0\ArticlesApi.Context.genruntimeconfig.cache
+C:\Users\Ariel\source\repos\ArticlesApi\ArticlesApi.Context\obj\Debug\net6.0\ref\ArticlesApi.Context.dll

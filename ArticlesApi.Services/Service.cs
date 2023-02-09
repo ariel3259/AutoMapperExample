@@ -4,20 +4,20 @@ using ArticlesApi.Repositories;
 
 namespace ArticlesApi.Services
 {
-    public class Service<E, R, S, U> where E: class, IBaseEntity where R: class where S : class where U : class
+    public class Service<E, R, S, U> where E: class, IBaseEntity where R: class where S : class where U : class, IUpdatable<E>
     {
         private AutoMapper.IMapper _mapper;
         private ICrud<E> _repository;
-        private IMapUpdate<E, U> _mapUpdate;
 
-        public Service(AutoMapper.IMapper mapper, ICrud<E> repository, IMapUpdate<E, U> mapUpdate) {
+        public Service(AutoMapper.IMapper mapper, ICrud<E> repository) {
             _mapper = mapper;
             _repository = repository;
-            _mapUpdate = mapUpdate;
+
         }
 
         public S GetById(int id)
         {
+            Console.WriteLine(Environment.UserName);
             return _mapper.Map<S>(_repository.GetById(id));
         }
 
@@ -36,7 +36,7 @@ namespace ArticlesApi.Services
         {
             E? entityToModify = _repository.GetById(id);
             if (entityToModify == null) return null;
-            E entityUpdated = _mapUpdate.Map(update, entityToModify);
+            E entityUpdated = update.Map(entityToModify);
             entityUpdated.Id = id;
             _repository.Modify(entityUpdated);
             return _mapper.Map<S>(entityUpdated);
